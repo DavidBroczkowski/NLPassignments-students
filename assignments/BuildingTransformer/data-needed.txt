@@ -1,3 +1,7 @@
 data/shakespeare/shakespeare_train.txt
 data/shakespeare/shakespeare_dev.txt
 data/shakespeare/shakespeare_test.txt
+data/sst/sst_dev_binary.csv
+data/sst/sst_dev_multiclass.csv
+data/sst/sst_train_binary.csv
+data/sst/sst_train_multiclass.csv
